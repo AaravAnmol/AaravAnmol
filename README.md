@@ -9,7 +9,7 @@
 
 - 👯 I’m looking **for Front-End and Back-End Projects** and **internship opportunities**
 
-- 👨‍💻 All of my projects are available at aaravanmol.github.io/
+- 👨‍💻 All of my projects are available at https://aaravanmol.github.io/
 
 - 📫 How to reach me **aaravanmol6201@gmail.com**
 
@@ -21,7 +21,9 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 <br>
+
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AfterEffect-informational?style=flat&logo=Adobe-After Effect&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AfterEffect-informational?style=flat&logo=Adobe-Aftereffect&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
 </br>
