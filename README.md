@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Kuamr </h1>
+<h1 align="center">Hi 👋, I'm Anmol Kumar </h1>
 <h3 align="center">A Problem Solver and An Ethical Hacker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravanmol&label=Profile%20views&color=0e75b6&style=flat" alt="aaravanmol" /> </p>
