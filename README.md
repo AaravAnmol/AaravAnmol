@@ -9,7 +9,7 @@
 
 - 👯 I’m looking **for Front-End and Back-End Projects** and **internship opportunities**
 
-- 👨‍💻 All of my projects are available at [aaravanmol.github.io/](aaravanmol.github.io/)
+- 👨‍💻 All of my projects are available at [AaravAnmol.github.io/](aaravanmol.github.io/)
 
 - 📫 How to reach me **aaravanmol6201@gmail.com**
 
