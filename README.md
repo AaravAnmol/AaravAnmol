@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anmol Kumar Sahu </h1>
-<h3 align="center">A Problem Solver and Mern-stack developer </h3>
+<h3 align="center">A Problem Solver, Front-end developer and Data Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravanmol&label=Profile%20views&color=0e75b6&style=flat" alt="aaravanmol" /> </p>
 
 
 
-- 🌱 I’m currently learning **Web Development**, **C++**, and **DSA**
+- 🌱 I’m currently learning **Web Development**, **Data Analysis**, **Data Cleaning**, **Data Visualization** and **Dashboard Creation**
 
-- 👯 I’m looking **for Front-End and Back-End Projects** and **internship opportunities**
+- 👯 I’m looking **for Front-End Projects**, **Full time opportunities** and **internship opportunities**
 
 - 👨‍💻 All of my projects are available at [AaravAnmol.github.io/](aaravanmol.github.io/)
 
@@ -20,9 +20,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ms-excel/excel-original-wordmark.svg" alt="excel" width="40" height="40"/> </a> 
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original-wordmark.svg" alt="powerbi" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
  ## Skills
