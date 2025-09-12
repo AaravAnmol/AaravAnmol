@@ -31,6 +31,7 @@
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AfterEffect-informational?style=flat&logo=Adobe-Aftereffect&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MS-Office-informational?style=flat&logo=MS-Office&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 </br>
