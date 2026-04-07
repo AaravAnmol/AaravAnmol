@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anmol Kumar Sahu </h1>
-<h3 align="center">A Problem Solver, Front-end developer and Data Analyst </h3>
+<h3 align="center">A Data Analyst and Problem Solver </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravanmol&label=Profile%20views&color=0e75b6&style=flat" alt="aaravanmol" /> </p>
 
 
 
-- 🌱 I’m currently learning **Web Development**, **Data Analysis**, **Data Cleaning**, **Data Visualization** and **Dashboard Creation**
+- 🌱 I’m currently learning **Data Analysis**, **Data Cleaning**, **Data Visualization** and **Dashboard Creation**
 
-- 👯 I’m looking **for Front-End Projects**, **Full time opportunities** and **internship opportunities**
+- 👯 I’m looking **for Analytical Projects**, **Full time opportunities** and **internship opportunities**
 
 - 👨‍💻 All of my projects are available at [AaravAnmol.github.io/](aaravanmol.github.io/)
 
